@@ -12,7 +12,7 @@
 <div class="max-w-md mx-auto p-6">
     <div class="bg-slate-800/90 backdrop-blur p-6 rounded-xl shadow-xl border border-slate-700">
 
-        <h1 class="text-2xl font-bold mb-1 text-indigo-400">Pesan Tiket</h1>
+        <h1 class="text-2xl font-bold mb-1 text-indigo-400">Pesan Tiket Event Shireen</h1>
         <p class="text-gray-400 mb-4 text-sm">
             Event: <strong class="text-gray-200">{{ $event->nama_event }}</strong>
         </p>
