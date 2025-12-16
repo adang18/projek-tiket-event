@@ -11,7 +11,7 @@
 
 <div class="max-w-xl mx-auto mt-12 bg-gray-900/80 backdrop-blur p-6 rounded-xl shadow-lg border border-gray-700">
 
-    <h1 class="text-2xl font-bold mb-6 text-indigo-400">Tambah Event</h1>
+    <h1 class="text-2xl font-bold mb-6 text-indigo-400">Tambah Event Konser</h1>
 
     @if($errors->any())
         <div class="bg-red-900/40 border border-red-700 text-red-300 p-3 rounded mb-4 text-sm">
